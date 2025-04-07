@@ -1,0 +1,11 @@
+# Virtual environment (Python dependencies)
+venv/
+
+# Cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
